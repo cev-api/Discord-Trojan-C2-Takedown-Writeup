@@ -99,7 +99,7 @@ It connects to Discord as a bot and creates a per-victim category based on their
 
 Given I had their bot token I quickly crafted up an app to login as their bot and view their discord server! 
 
-It's by no means pretty but it does the job.
+It's by no means pretty but it does the job. I have since made a [new version](https://github.com/cev-api/Discord-Bot-Console/) which has more features.
 
 ![Bot](https://i.imgur.com/H21xi1a.png)
 
